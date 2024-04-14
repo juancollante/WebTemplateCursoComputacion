@@ -14,7 +14,7 @@ Hay sólo unos pocos pasos para crear un nuevo sitio web del curso a partir de e
 
 * Configura el repositorio para que aparezca como un sitio web de GitHub Pages. 
 
-¡Listo! Tu sitio web del curso debería ser visible en https://<username>.github.io/<subdir>.
+¡Listo! Tu sitio web del curso debería ser visible en `https://<username>.github.io/<subdir>`.
 
 ## Contenido
 
